@@ -10,12 +10,13 @@
 </div>
 
 <p align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=Selft-Taught+;Full+Stack+Web+Developer;Freelancer;DS%20|%20AI%20|%20ML%20Enthusiastic;🌱%20Knowledge%20Is%20Life%20🌱;Always%20learning%20new%20things&center=true&width=380&height=45&" ></a>
+  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=Selft-Taught+;Full+Stack+Web+Developer;Freelancer;JS%20|%20TS%20|%20Enthusiastic;🌱%20Knowledge%20Is%20Life%20🌱;Always%20learning%20new%20things&center=true&width=380&height=45&" ></a>
 </p>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-<img align="left" src="https://cdna.artstation.com/p/assets/images/images/028/102/058/original/pixel-jeff-matrix-s.gif?1593487263" alt="Unfortunately I didn't find the author of the pic, feel to open a pull request if found" height="209" width="319" />
+<img align="right" src="https://cdna.artstation.com/p/assets/images/images/028/102/058/original/pixel-jeff-matrix-s.gif?1593487263" alt="Unfortunately I didn't find the author of the pic, feel to open a pull request if found" height="210" width="310" />
+
 
 ```
 I-am-jcodedeveloper@github
@@ -28,6 +29,7 @@ I-am-jcodedeveloper@github
 💖 TypeScript is like a girlfriend who always fixes my JavaScript mistakes with a smile.
 🎮 Love Video Games, lofi, soft music.
 ```
+
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 <div id="user-content-toc">
