@@ -22,11 +22,13 @@
 I-am-jcodedeveloper@github
 -------------------------
 💻 I am a self taught Full Stack Developer.
-📝 I want to learn and master TypeScript to create effective and versatile software.
+📝 I want to learn and master TypeScript to create effective and versatile
+    software.
 🌱 Knowledge Is Life.
 🌟 Main languages: JavaScript.
 🚩 Interested in specializing in software creation with TypeScript.
-💖 TypeScript is like a girlfriend who always fixes my JavaScript mistakes with a smile.
+💖 TypeScript is like a girlfriend who always fixes my JavaScript mistakes
+    with a smile.
 🎮 Love Video Games, lofi, soft music.
 ```
 
