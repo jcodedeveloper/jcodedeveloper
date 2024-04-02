@@ -3,8 +3,8 @@
 
 <!--h1 without bottom border-->
 
-<div id="user-content-toc">
-  <ul align="center">
+<div id="user-content-toc" align="center">
+  <ul >
     <summary><h1 style="display: inline-block">Hi there, I'm Jhonathan Salazar <img width="50px" src="https://github.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/blob/master/Emojis/Hand%20gestures/Waving%20Hand%20Light%20Skin%20Tone.png"></h1></summary>
   </ul>
 </div>
